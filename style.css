@@ -20,7 +20,7 @@ color: azure;
     width: 25vw;
     border: 2px solid white;
     padding: 10px;
-    background-color: rgb(101, 168, 240);
+    background-color: rgb(101, 240, 219);
     color: azure;
 
 }
@@ -34,12 +34,30 @@ padding: 10vw;
 color: azure;
 }
 
+.sida3{
+    display: flex;
+justify-content: space-evenly;
+flex-direction: column;
+align-items: center;
+padding: 10vw; 
+color: azure;
+}
+
+.sida4{
+    display: flex;
+justify-content: space-evenly;
+flex-direction: column;
+align-items: center;
+padding: 10vw; 
+color: azure;
+}
+
 .hem{
     
     width: 25vw;
     border: 2px solid white;
     padding: 10px;
-    background-color: rgb(101, 168, 240);
+    background-color: rgb(101, 240, 219);
     color: azure;
 
 }
