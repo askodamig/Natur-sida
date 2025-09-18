@@ -16,7 +16,7 @@ color: azure;
 
 }
 
-box{
+.box{
     width: 25vw;
     border: 2px solid white;
     padding: 10px;
