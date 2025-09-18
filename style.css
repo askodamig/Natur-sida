@@ -1,6 +1,45 @@
 body{
     color: azure;
-    background-color: rgb(39,54,51);
+    background-color: rgb(50, 94, 85);
     margin: 0;
     padding: 0;
+}
+
+
+.flex_container {
+display: flex;
+justify-content: space-evenly;
+flex-direction: column;
+align-items: center;
+padding: 10vw; 
+color: azure;
+
+}
+
+box{
+    width: 25vw;
+    border: 2px solid white;
+    padding: 10px;
+    background-color: rgb(101, 168, 240);
+    color: azure;
+
+}
+
+.sida2{
+    display: flex;
+justify-content: space-evenly;
+flex-direction: column;
+align-items: center;
+padding: 10vw; 
+color: azure;
+}
+
+.hem{
+    
+    width: 25vw;
+    border: 2px solid white;
+    padding: 10px;
+    background-color: rgb(101, 168, 240);
+    color: azure;
+
 }
