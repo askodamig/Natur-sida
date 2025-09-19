@@ -17,6 +17,11 @@ color: azure;
 
 .first-layer{
     background-color: rgb(37, 181, 128);
+    margin: 0;
+    padding: 0;
+    border: 2px solid white;
+    padding: 10px; 
+    color: azure;
 }
 
 .hörn{
